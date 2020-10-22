@@ -4,7 +4,7 @@ This is a 3D printable keyboard designed for the split Quefrency V2 PCBs. Includ
  There are some other designs out there but none that met my personal criteria, or were closed source/paid.
 
 
-![Left Case with RGB light strip](images/case_left_RGB.jpg "Left Case with RGB light strip")
+![Fusion 360 Preview Render](images/case_preview.jpg "Fusion 360 Preview Render")
 
 ## Design Goals
 I designed this with a few main goals in mind.
@@ -19,5 +19,5 @@ I designed this with a few main goals in mind.
 ## Additional Notes
 * Currently only compatible with PCB configurations of `Left with 2x5 macro pad` and `Right 65%`
   * If there is interest I can update the designs to support the `Left without macro pad` and `Right 60%` configurations.
-* The left half of the case is split into 2 files, `case_left_macro_bottom.stl` and `case_left_macro_top.stl`.
-    * The PCB would be installed onto the bottom part first, and then the top part snaps in over it.
+* The case is split into 2 files for each half.
+    * The PCB would be installed onto the bottom part first, and then the top part can be screwed into the bottom part.
