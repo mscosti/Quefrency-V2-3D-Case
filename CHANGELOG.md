@@ -1,3 +1,16 @@
+# V2.2 - 10/28/2020
+### Minor tolerance updates for ease of assembly
+- Adjusted pcb hole size back to 3.3mm in diamter, up from 3.1mm
+    - 3.1mm is too tight when screwing into a nut, makes it even harder to secure pcb
+    - Left case holes as 3.1mm. Tight is ok in this situation. Instead of using captured nut, you can get away with just screwing straight into the PLA, creating threads as you go.
+        - Fairly easy to change this in CAD files, or with a dremel/drill to embiggen it.
+- Added small holes to back of each of the leg screw holes.
+    - This makes it a lot easier to remove tightly captured nuts by poking them with a small pin.
+- Top case files are now meant to be printed in the default orientation (case top is last layer)
+    - removes need for difficult to remove sacrificial support layer inside the captured nut holes
+    - Printing left half will require slicer supports under the macropad seperator now.
+- Removed fillet around the top of the case, replaced it with a sleeker looking chamfer.
+
 # V2.1 - 10/22/2020
 ![Adjustable Keyboard Foot](images/keyboard_foot_test.jpg "V2 Fusion Render")
 ### Adjustable Keyboard Feet
