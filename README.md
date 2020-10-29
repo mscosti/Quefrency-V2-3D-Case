@@ -1,9 +1,10 @@
 # Quefrency V2 3D Keyboard Case
+![Printed Right V2 case](images\case_right_printed_collage.jpg "Printed Right V2 case")
 This is a 3D printable keyboard designed for the split Quefrency V2 PCBs. Included are Fusion 360 source files, STEP files, and STLs for printing immediately.
 
  There are some other designs out there but none that met my personal criteria, or were closed source/paid.
 
-
+## CAD Preview
 ![Fusion 360 Preview Render](images/case_preview.jpg "Fusion 360 Preview Render")
 
 ## Design Goals
@@ -21,3 +22,9 @@ I designed this with a few main goals in mind.
   * If there is interest I can update the designs to support the `Left without macro pad` and `Right 60%` configurations.
 * The case is split into 2 files for each half.
     * The PCB would be installed onto the bottom part first, and then the top part can be screwed into the bottom part.
+
+## Still To Come / To Do
+- Print settings and assembly instructions
+- Reprint left case with V2 design for validation
+- Print out final tilt/tent feet
+- Acquire small roll of transparent PLA to see if tthat significantly improves side glow brightness or not.
