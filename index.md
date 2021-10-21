@@ -1,3 +1,6 @@
+<script src="https://cdn.lr-in.com/LogRocket.min.js" crossorigin="anonymous"></script>
+<script>window.LogRocket && window.LogRocket.init('utiagi/gh-pages-app');</script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mscosti/Quefrency-V2-3D-Case/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
